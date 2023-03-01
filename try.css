@@ -1,0 +1,47 @@
+.search1 {
+    justify-self: center;
+
+    width: 60%;
+    height: 100%;
+
+}
+
+.explore {
+    text-align: center;
+    color: #fbf6f6;
+    font-size: large;
+    padding-top: 5px;
+    margin-top: 2%;
+}
+
+.search2 {
+    width: 60%;
+    padding-left: 26%;
+    margin-top: 3%;
+
+}
+
+.icons {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+   
+
+}
+
+.search {
+    margin: 0;
+    padding: 0;
+    width: 95%;
+    justify-content: center;
+    position: fixed;
+    height: 220px;
+    overflow: auto;
+    padding-left: 10%;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, rgb(6, 6, 184), rgb(138, 138, 255));
+
+
+
+
+}
